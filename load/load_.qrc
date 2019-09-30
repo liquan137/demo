@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="loading">
+    <file>spinning-circles.svg</file>
+    <file>timg.gif</file>
+  </qresource>
+</RCC>
